@@ -3,9 +3,9 @@
     <modelVersion>4.0.0</modelVersion>
     <groupId>tutorial.noodle.tetra</groupId>
     <artifactId>multi</artifactId>
-    <version>3.9-TETRA</version>
+    <version>1.5-Sunny</version>
     <packaging>pom</packaging>
-    <name>Simple Multi Modules Build</name>
+    <name>Simple Multi Modules Build_15</name>
 
     <modules>
         <module>multi3</module>
